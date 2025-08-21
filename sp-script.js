@@ -1,1 +1,1 @@
-console.log("FUCK PALESTAIN!");
+console.log("this is working!");
